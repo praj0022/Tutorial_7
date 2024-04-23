@@ -20,6 +20,9 @@ header-includes:
   - \sectionfont{\color{olive}}
   - \usepackage{verbatim}
 
-
 ---
+
+# Introduction 
+
+This is the intro section
 
